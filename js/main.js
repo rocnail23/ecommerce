@@ -64,7 +64,7 @@ function printProducts (){
       productsHome.innerHTML = html
     } 
     )}
-
+    
     
 function printcartproducts(){
     html =``
@@ -266,3 +266,12 @@ cartCheck.addEventListener("click", function (e) {
 });
  printproductPrice()
  printProducts()
+
+ var mixer = mixitup(".products-content", {
+    selectors: {
+        target: '.products-card'
+    },
+    animation: {
+        duration: 300
+    }
+});
