@@ -1,0 +1,292 @@
+00:05:18	Luis Alberto Gutierrez Anicama:	va a doler :'v
+00:05:24	Carolina Tobon:	Sip
+00:05:29	Luciano Facundo Tito Cedrón:	jajaja va a doler dice
+00:05:34	Carolina Tobon:	Pero creí que eran asesorías JAJAJAJA
+00:05:40	Carolina Tobon:	Dele a eso
+00:05:41	Alex Pacheco:	perfecto
+00:05:41	Carolina Tobon:	Todo bien
+00:05:45	Hector Leonel Soto:	música!
+00:06:20	Alex Pacheco:	sinceramente lo intente hacer y rompi todo el código que tenia jajaja
+00:07:11	Max Cereceda:	pero salio?
+00:07:20	Jhon Alexander González R.:	ies
+00:08:13	Miguel Angel:	products
+00:08:15	Diego Jaldin:	products
+00:08:16	Juan David Reyes Sanchez:	products
+00:08:18	Roxana Rodríguez Revolleda:	products
+00:09:02	Jhon Alexander González R.:	Hay poquita gente ._ .
+00:09:18	jean cervantes:	profe como se llama el tema que usa
+00:09:43	jean cervantes:	gracias
+00:09:53	Heri Espinosa:	profe baje un chin la music
+00:10:06	Jhon Alexander González R.:	Está bien ._ .
+00:12:37	Miguel Angel:	cómo saco el template string?, porfavor
+00:12:55	Oliver Rodriguez:	` `
+00:12:56	Heri Espinosa:	alt 96
+00:13:09	Miguel Angel:	muchas gracias
+00:14:24	Miguel Angel:	con destruct
+00:14:50	Jhon Alexander González R.:	Profe
+00:14:58	Heri Espinosa:	me encanta su mood de hoy
+00:15:09	Jhon Alexander González R.:	Podría tener cualquier nombre, solo importa el orden de los elementos, no??
+00:15:20	Juan David Reyes Sanchez:	como su energia de hoy
+00:15:35	Heri Espinosa:	sii y relax
+00:15:51	Santiago Galván Martínez:	como no estar contento si sos Brayan, si yo fuera usted, también estaría contento
+00:16:53	Cristian Norberto Perez:	El stock donde se asigna?
+00:17:17	Miguel Angel:	display block
+00:17:27	Santiago Galván Martínez:	la existencia?
+00:17:32	Santiago Galván Martínez:	me imagino que en la data
+00:17:51	Cristian Norberto Perez:	Ah bien, gracias Santi
+00:18:08	Miguel Angel:	profe no se debe formatear la img con display block?
+00:18:20	Santiago Galván Martínez:	imagino que... puedo estar equivocado, jaja
+00:18:29	Jhon Alexander González R.:	Beio 
+00:18:34	Santiago Galván Martínez:	prezioso
+00:18:44	Juan David Reyes Sanchez:	se ve facil asi viendolo como lo hace ud profe
+00:19:28	Jeremi Castellano:	el profe hace ver todo fácil jajaja
+00:20:49	Jhon Alexander González R.:	Jajajaj el nombre del primer producto: Algo raro ._ .
+00:21:03	Heri Espinosa:	taco
+00:21:06	Santiago Galván Martínez:	rapiditas
+00:21:21	jean cervantes:	empanada
+00:21:32	Jhon Alexander González R.:	Cómo que empanad??
+00:21:34	Juan David Reyes Sanchez:	arepa de chocolo
+00:21:34	jean cervantes:	es que hacia hambre
+00:21:34	Max Cereceda:	taco mexicano
+00:21:34	Jhon Alexander González R.:	Respetame 
+00:21:35	Miguel Angel:	una empanada desjetada
+00:21:35	Hector Leonel Soto:	chipa amasada (?
+00:21:41	Carlos Ruiz:	parece una cachapa con ensalada
+00:21:41	Guillermo Benitez:	empanada vegana
+00:21:41	Derian Augusto Arias Ballesteros:	un Tamal
+00:21:41	Santiago Galván Martínez:	lomito
+00:21:43	Mateo Amaya Higuita:	tortilla
+00:21:44	Jose Aldair Alburqueque Gutierrez:	es arepa}
+00:21:53	Miguel Angel:	mas bien algo raro
+00:21:55	jean cervantes:	con hambre todo se puede
+00:22:40	Heri Espinosa:	y a la derecha
+00:22:45	Cristian Norberto Perez:	Prode entonces, los que tenemos maquetado el ecommerce con HTML y css tendríamos que cambiar toda esa parte para hacerla con js?
+00:23:03	Heri Espinosa:	mejor
+00:23:38	Cristian Norberto Perez:	listo listo
+00:23:41	Cristian Norberto Perez:	gracias
+00:24:01	Jose Aldair Alburqueque Gutierrez:	box-shadow
+00:24:38	Diego Jaldin:	Y eso podemos usarlo??
+00:24:43	Max Cereceda:	todo un diseñador
+00:24:50	Max Cereceda:	se ve agradable a la vista
+00:24:57	Diego Jaldin:	Pense que no
+00:25:07	Jose Aldair Alburqueque Gutierrez:	zoom cuando pasas la flecha por encima de cada cuadro
+00:27:25	Jhon Alexander González R.:	Esa página se ve buena 
+00:28:52	Heri Espinosa:	ponerselo al lado del comprar
+00:28:57	Heri Espinosa:	el icons
+00:30:25	Heri Espinosa:	duroo
+00:30:36	Jeremi Castellano:	brutaaal
+00:30:39	Santiago Galván Martínez:	con el hoverr
+00:30:46	Jhon Alexander González R.:	Y yo usando las porquerías de fontawesome ._ .
+00:30:49	Hector Leonel Soto:	seria bueno que haga la animación cuando agregas algo al carrito
+00:31:00	Santiago Galván Martínez:	JASLDKJAks
+00:31:07	Santiago Galván Martínez:	En la mente lo hacemos
+00:31:16	Max Cereceda:	🤣
+00:32:59	Jose Aldair Alburqueque Gutierrez:	ohh
+00:33:04	Alex Yonathan Puicón Rubira:	header > nav
+00:33:09	Alex Yonathan Puicón Rubira:	?
+00:34:36	Miguel Angel:	profe y si prueba con el de esta semana
+00:34:38	Jhon Alexander González R.:	Profe, pero si se agranda hasta donde llega el máximo del contenido, el nav sigue creciendo 
+00:34:44	Jhon Alexander González R.:	Cómo se arregla??
+00:34:48	Miguel Angel:	scroll margin top
+00:34:50	Roxana Rodríguez Revolleda:	si lo pone después del otro padding
+00:34:58	Juan David Reyes Sanchez:	el padding no se haria desde el header?
+00:34:59	Cristian Norberto Perez:	margin top al product profe?
+00:35:13	Jhon Alexander González R.:	ahhh vale lvale 
+00:35:54	Juan David Reyes Sanchez:	margin top desde el header no?
+00:36:17	Jhon Alexander González R.:	a ia 
+00:36:23	Jhon Alexander González R.:	invertir el orden
+00:36:23	Roxana Rodríguez Revolleda:	al reves
+00:36:51	Juan David Reyes Sanchez:	No entendi, solo por el orden?
+00:37:15	Max Cereceda:	primeor arriba, luego derecha, luego abajo, ultimo izquierda
+00:37:33	Miguel Angel:	12 - 3- 6 -9
+00:37:34	Juan David Reyes Sanchez:	ahh ok claro
+00:39:54	Cristian Norberto Perez:	50
+00:43:17	Heri Espinosa:	entonces cuando es e-commerce, es mejor comenzar en desktop
+00:43:46	Jhon Alexander González R.:	ContentCart**
+00:45:40	Cristian Norberto Perez:	En las clases que no esta explicitas en el HTML no es necesario buscarlas con punto en js?
+00:46:05	Cristian Norberto Perez:	ahh okok
+00:46:16	Alex Pacheco:	depende de si es queryselector o si es classlist
+00:51:52	Eliseo Torres:	return
+00:52:05	Jhon Alexander González R.:	Profe, que pena, puede explicar la última función??
+00:52:05	Alex Pacheco:	hágalo con un find
+00:52:06	Oliver Rodriguez:	y si se hace find a foods?
+00:53:00	Alex Pacheco:	con find es mas corto
+00:53:03	Cristian Norberto Perez:	sisi mucho mejor
+00:55:15	Diego Jaldin:	Para que era los tres puntos
+00:55:17	Diego Jaldin:	?
+00:55:20	Diego Jaldin:	Se me fue
+00:55:23	Diego Jaldin:	Aaa cierto
+00:55:25	Diego Jaldin:	gracias
+00:55:34	Miguel Angel:	spread
+00:56:07	Heri Espinosa:	amount +1
+00:57:35	Romario Ariza Atuesta:	calidoso profe
+00:57:55	Alex Pacheco:	prof no me fije si ese objCar ud lo creo como un obj vacio o lo declaro de una vez en el if? me perdi ahí
+00:58:07	Alex Pacheco:	okook
+01:00:12	Diego Jaldin:	Porque el llamado de la funcion esta dentro del if?
+01:00:50	Diego Jaldin:	Dale profe
+01:03:59	Heri Espinosa:	no llo copio
+01:04:04	Diego Jaldin:	Copio el mismo
+01:07:07	Roxana Rodríguez Revolleda:	gap
+01:07:21	Alex Pacheco:	y un align item
+01:07:50	Jose Aldair Alburqueque Gutierrez:	y el precio se tiene q ir sumando
+01:08:07	Diego Jaldin:	jajaja
+01:08:34	Jhon Alexander González R.:	Es multiplicarlo por el amount, no??
+01:09:08	Romario Ariza Atuesta:	un gap
+01:09:52	Miguel Angel:	over flow
+01:10:56	Diego Jaldin:	Cuando el profe dice muy muy muy sencillo para mi es 🤯🤯
+01:11:05	Max Cereceda:	x2
+01:11:13	Juan David Reyes Sanchez:	x3
+01:12:26	Miguel Angel:	minus
+01:12:32	Heri Espinosa:	minus
+01:12:38	Derian Augusto Arias Ballesteros:	eran
+01:13:26	Juan David Reyes Sanchez:	Cuanto te demoras profe haciendo todo hasta donde vamos sin explicar? ya un ecommerce lo haces con los ojos cerrados
+01:13:48	Miguel Angel:	yo creo que los botones (+, - y trash) tan chiquitos si uno no tiene mouse, por ejm en un móvil
+01:14:08	Oliver Rodriguez:	😆
+01:14:14	Juan David Reyes Sanchez:	jajajaja
+01:14:19	Miguel Angel:	🥺
+01:14:47	Cristian Norberto Perez:	8 años me va a llevar a mi
+01:14:49	Diego Jaldin:	Jaajajja ya quisiera demorar eso
+01:14:59	Jeremi Castellano:	ya llevo  días con el portafolio jajaja
+01:15:01	Max Cereceda:	1.5hrs x 365d
+01:15:02	Jeremi Castellano:	que quedara con lo demás
+01:15:03	Juan David Reyes Sanchez:	a nosotros mes y medio hahaha
+01:15:04	jean cervantes:	en cuanto lo vende jsjjs
+01:15:07	Derian Augusto Arias Ballesteros:	xd
+01:15:41	Max Cereceda:	vendo eco**** jajajaj
+01:15:44	Carlos Ruiz:	Te reto a que hagas el ecommerce de academlo en una hora. Demuéstralo
+01:18:01	Guillermo Benitez:	que beyura
+01:18:02	Cristian Norberto Perez:	Es muy genial profe
+01:18:03	Miguel Angel:	que papaya
+01:18:05	Alex Pacheco:	lo hace ver tan fácil jajaja
+01:18:07	Oliver Rodriguez:	rico
+01:18:09	Jhon Alexander González R.:	Bonito hermoso papá 
+01:18:10	Diego Jaldin:	Esta buenooo
+01:18:12	Max Cereceda:	easy
+01:18:20	Jose Aldair Alburqueque Gutierrez:	nunca lo iba a terminar
+01:18:29	Cristian Norberto Perez:	déjame ese código para enmarcarlo en un cuadro
+01:18:48	Heri Espinosa:	validaciones
+01:19:33	Oliver Rodriguez:	profe el gradooo
+01:19:48	Derian Augusto Arias Ballesteros:	Puedes hacerlo en una promoción 2X1?
+01:20:03	Derian Augusto Arias Ballesteros:	O 3x1
+01:20:17	Heri Espinosa:	waoo profe no esta grabando
+01:20:27	Max Cereceda:	jajajjajaa
+01:20:29	Derian Augusto Arias Ballesteros:	sii
+01:20:35	Heri Espinosa:	fue un chiste, un sustico 😅
+01:20:35	Max Cereceda:	si esta
+01:20:36	Juan David Reyes Sanchez:	no digan eso
+01:20:37	Diego Jaldin:	Sii esta grabando
+01:20:37	Juan David Reyes Sanchez:	hahaha
+01:20:40	Diego Jaldin:	jajajaja
+01:20:43	Heri Espinosa:	jajajaj
+01:20:43	Juan David Reyes Sanchez:	a todos
+01:20:44	Max Cereceda:	que buena
+01:20:45	Juan David Reyes Sanchez:	jajajaja
+01:20:46	Max Cereceda:	jajjaja
+01:20:48	Alex Pacheco:	jajajajajaja
+01:20:52	Jhon Alexander González R.:	Jajajaja vi cuando se le rompió el corazón 
+01:20:58	Alex Pacheco:	yo también me asuste, esta clase vale oro
+01:21:06	Carlos Ruiz:	Esos no son juegos
+01:21:08	Romario Ariza Atuesta:	todas++
+01:21:15	Carlos Ruiz:	😂
+01:21:18	Derian Augusto Arias Ballesteros:	jajajajja
+01:23:44	Cristian Norberto Perez:	ese else es necesario?
+01:24:30	Cristian Norberto Perez:	ya entendí profe gracias
+01:24:37	Heri Espinosa:	no se ejecuta mas nada despues del return
+01:25:03	Oliver Rodriguez:	el precio
+01:25:23	Diego Jaldin:	Dale profe siesta de 15
+01:25:25	Alex Yonathan Puicón Rubira:	se me terminaron las neuronas
+01:25:41	Santiago Galván Martínez:	a trabajar que libre no estamos
+01:25:46	Cristian Norberto Perez:	Yo me voy a azotar la cabeza un poco a ver si reacciono
+01:25:55	Juan David Reyes Sanchez:	un balde de agua fria
+01:25:58	Juan David Reyes Sanchez:	en la cabeza
+01:26:02	Juan David Reyes Sanchez:	se va aexplotar
+01:26:08	Juan David Reyes Sanchez:	🤯
+01:27:07	Brayan Munoz:	https://github.com/bsqmAcademlo/shopping_cart.git
+01:54:16	Miguel Angel:	linea 81 se le fue una función flecha
+01:55:18	Alex Pacheco:	eso también sale con un reduce?
+01:56:42	Heri Espinosa:	hizo algo feo, y creo k multiplico todo lo que puso
+01:57:35	Heri Espinosa:	pues vi mal
+01:58:05	Diego Jaldin:	Dos perritos es 3000
+01:58:08	Diego Jaldin:	O no?
+01:58:23	Diego Jaldin:	Lo multiplica con la pizza?
+01:58:28	Derian Augusto Arias Ballesteros:	esta bien
+01:58:31	Diego Jaldin:	No lo tendría que sumar?
+01:58:34	jean cervantes:	jaja es q eran 2 pizzas
+01:58:35	jose daniel rojas caballero:	esta todo bien profe
+01:58:38	Alex Pacheco:	esta bien
+01:58:41	Diego Jaldin:	aaaaa
+01:58:47	Diego Jaldin:	No vi las 2 pizzas
+01:58:49	Derian Augusto Arias Ballesteros:	sum++
+01:58:51	Daniel Calderón:	enserio?
+01:58:59	Max Cereceda:	clases de repaso de suma urgente
+01:59:01	Max Cereceda:	jaja
+01:59:03	Derian Augusto Arias Ballesteros:	esta sumando y *
+01:59:08	Diego Jaldin:	sisi
+01:59:15	Diego Jaldin:	Fallamos en el sueño
+01:59:49	Miguel Angel:	es que es suma y asignacion
+02:00:04	jose daniel rojas caballero:	el profe mintió dijo que el js del ecomerce serian 100 líneas de js xd
+02:00:05	Jeremi Castellano:	menos mal profe que nos esta ayudando con la lógica porque si no todos repetimos xd
+02:00:31	Max Cereceda:	la verdad si
+02:00:36	Cristian Norberto Perez:	Y yo me asuste cuando dijo 100 líneas de js jajaja
+02:00:42	Derian Augusto Arias Ballesteros:	xd
+02:00:58	Alex Yonathan Puicón Rubira:	voy a ver el video unas 4 veces
+02:01:10	Oliver Rodriguez:	x2
+02:01:24	Alex Pacheco:	falta el numero de productos en el carrito
+02:04:24	Heri Espinosa:	no devuelve nada
+02:06:32	Rubén Hernández:	🤯
+02:06:42	Alex Yonathan Puicón Rubira:	x2
+02:06:45	Romario Ariza Atuesta:	🤯
+02:08:49	Heri Espinosa:	fuegooo, en el cerebro
+02:08:52	Alex Pacheco:	no me quedo claro lo de encadenar (?
+02:10:03	Alex Pacheco:	ok ya entendí gracias
+02:12:38	Jeremi Castellano:	yeeeeiii
+02:12:41	Cristian Norberto Perez:	acabamos dice jajaja
+02:12:46	Alex Pacheco:	jajajaja
+02:12:48	Max Cereceda:	ajajjaja
+02:12:51	Alex Yonathan Puicón Rubira:	🥶
+02:12:58	jose daniel rojas caballero:	hoy me acuesto llorando jsjsjs
+02:13:00	Alex Pacheco:	falta el numero en el carrito con los productos que hay
+02:15:38	Miguel Angel:	con rem coge decimales
+02:16:43	Roxana Rodríguez Revolleda:	pero si el numero es de 2 cifras desborda
+02:17:17	Oliver Rodriguez:	padding
+02:17:32	Miguel Angel:	y si lo vuelve auto-fit con un grid
+02:18:11	Cristian Norberto Perez:	un poquito mas a la derecha y queda
+02:18:58	Carlos Ruiz:	¿Por qué sube y baja cuando de despliega?
+02:23:46	Heri Espinosa:	mucha info 😅
+02:23:56	Alex Pacheco:	y es posible hacer que el stock se modifique en tiempo real?
+02:24:22	Cristian Norberto Perez:	Profe me devuelven la plata del pago de compromiso por favor?
+02:24:24	Cristian Norberto Perez:	jajajaja
+02:24:28	Juan David Reyes Sanchez:	Solo 6 dias para el ecommerce :(
+02:26:03	Max Cereceda:	jajaja
+02:26:05	Jose Aldair Alburqueque Gutierrez:	jaja el profe dijo q si hacías la maquetación tenias el 80% hecho , creo q es todo lo contrario xd
+02:26:11	Max Cereceda:	a llorar en grupo
+02:26:48	Juan David Reyes Sanchez:	mas tareas
+02:26:52	Juan David Reyes Sanchez:	jajajaja
+02:27:18	Alex Pacheco:	Cristian tienes cara de asustado jajaja
+02:27:20	Jeremi Castellano:	hoy comienzo a llorar para el que quiera unirse
+02:27:37	Cristian Norberto Perez:	No lloro porque encendí la cámara Alex, ahora la apago y largo el llanto
+02:27:44	Alex Pacheco:	jajajajajaa
+02:27:49	Jeremi Castellano:	vamos Cristian, la decima es la vencida
+02:28:00	Carlos Ruiz:	Solo tengo que colocarle el logo que Academlo 😂
+02:28:15	Cristian Norberto Perez:	Si amigo Jeremi, salir va a salir eso es seguro
+02:28:18	Juan David Reyes Sanchez:	Hay que inventar un chip que nos de la info directo al cerebro, un matrix 😵‍💫
+02:28:25	Jose Aldair Alburqueque Gutierrez:	hay q gozar llorando
+02:28:46	Aaron Mejia:	Espera que llegue Neuralink jaja
+02:28:53	Heri Espinosa:	la carrera de la muerte 3
+02:29:10	Juan David Reyes Sanchez:	Lo unico nuevo fue del incio de la clase hasta el final jejejejeje
+02:29:11	Jeremi Castellano:	6 días de sufrimiento 😈
+02:29:23	Jose Aldair Alburqueque Gutierrez:	profe, esto es lo mas difícil?
+02:29:30	Max Cereceda:	😭
+02:29:31	jean cervantes:	6 diasssssss
+02:29:33	Alex Pacheco:	que vamos a ver la otra semana prof?
+02:29:56	Alex Yonathan Puicón Rubira:	se repite el ecomer
+02:30:20	Jose Aldair Alburqueque Gutierrez:	pare profe
+02:30:40	Max Cereceda:	pare de sufrir
+02:30:43	jean cervantes:	😭
+02:30:47	Juan David Reyes Sanchez:	Profe el profe alejandro me enseno dos formas de usar la function flecha pero no recuerdo bien, vos sabes esas dos? seria buenisimo saber usarlas bien
+02:31:01	Jeremi Castellano:	yo este fin de semana tengo que salir : (
+02:31:10	jose daniel rojas caballero:	yo tengo trabajo ajajaj
+02:31:11	Alex Pacheco:	nisiquiera hemos digerido bien esto y lo que viene es duro también. Este 2023 vino con todo 🤯
+02:31:14	Juan David Reyes Sanchez:	seria buenisimo profe
+02:31:25	Juan David Reyes Sanchez:	se me hace que la segunda forma que ensena es mas facil de entender
+02:31:36	Carlos Ruiz:	Para la grabación que lo videos pesan mucho
